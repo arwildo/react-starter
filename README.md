@@ -9,3 +9,6 @@ React, Tailwind, Webpack, Babel from scratch.
 3. Type the project info (title, desc, author, etc)
 4. Done  
 `npm start`
+
+## Support
+<a href="https://www.buymeacoffee.com/Arwildo " target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/white_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
