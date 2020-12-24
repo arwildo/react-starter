@@ -7,3 +7,17 @@ sudo npm i webpack webpack-cli webpack-dev-server html-webpack-plugin babel-load
 # Tailwind
 sudo npm i tailwindcss autoprefixer postcss-cli mini-css-extract-plugin postcss-loader --save-dev
 ./node_modules/.bin/tailwind init tailwind.config.js
+
+# Get config files
+wget https://github.com/arwildo/react-starter/raw/master/config/.babelrc
+wget https://github.com/arwildo/react-starter/raw/master/config/.editorconfig
+wget https://github.com/arwildo/react-starter/raw/master/config/.gitignore
+wget https://github.com/arwildo/react-starter/raw/master/config/postcss.config.js
+wget https://github.com/arwildo/react-starter/raw/master/config/webpack.config.js
+
+# Get src
+mkdir src
+wget https://github.com/arwildo/react-starter/raw/master/src/index.js
+wget https://github.com/arwildo/react-starter/raw/master/src/style.css
+mv index.js src/
+mv style.css src/
