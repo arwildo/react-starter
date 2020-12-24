@@ -22,7 +22,9 @@ wget https://github.com/arwildo/react-starter/raw/master/config/webpack.config.j
 # Get src
 echo "Get src files from github repo"
 mkdir src
+wget https://github.com/arwildo/react-starter/raw/master/src/index.html
 wget https://github.com/arwildo/react-starter/raw/master/src/index.js
 wget https://github.com/arwildo/react-starter/raw/master/src/style.css
+mv index.html src/
 mv index.js src/
 mv style.css src/
