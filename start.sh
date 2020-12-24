@@ -2,6 +2,7 @@ npm init
 
 # React, Webpack, Babel, CSS Loader
 echo "Installing React, Webpack, Babel, Style Loader"
+echo "Run with sudo privilage"
 sudo npm i react react-dom -S
 sudo npm i webpack webpack-cli webpack-dev-server html-webpack-plugin babel-loader @babel/core @babel/preset-env @babel/preset-react @babel/cli css-loader style-loader -D
 
