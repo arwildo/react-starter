@@ -1,6 +1,11 @@
 # react-starter
 React, Tailwind, Webpack, Babel from scratch.
 
+## Requirements
+- Bash
+- Wget
+- NPM
+
 ## How To Use
 1. Make a empty directory for the project and download the starter script  
 `wget start.sh`    
