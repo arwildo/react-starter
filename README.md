@@ -1,5 +1,5 @@
 # react-starter
-A simple script to set up React, Tailwind, Webpack, Babel.
+A simple script to set up React, Tailwind, Webpack, Babel. In other word a React + Tailwind Boilerplate.
 
 ## Requirements
 - Bash
