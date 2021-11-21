@@ -4,7 +4,8 @@ A simple script to set up React, Tailwind, Webpack, Babel. In other word a React
 ## Requirements
 - Bash
 - Wget
-- NPM
+- NPM >= 8.1.0
+- NodeJS >= v16.13.0
 
 ## How To Use
 1. Make a empty directory for the project and download the starter script  
