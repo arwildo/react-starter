@@ -10,7 +10,7 @@ A simple script to set up React, Tailwind, Webpack, Babel. In other word a React
 1. Make a empty directory for the project and download the starter script  
 `wget https://raw.githubusercontent.com/arwildo/react-starter/master/start.sh`    
 2. Run the starter script  
-`sudo bash start.sh`   
+`bash start.sh`   
 3. Type the project info (title, desc, author, etc)
 4. Open `package.json` and change `scripts` to  
 ```  
