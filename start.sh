@@ -3,12 +3,12 @@ npm init
 # React, Webpack, Babel, CSS Loader
 echo "Installing React, Webpack, Babel, CSS Loader"
 echo "Run with sudo privilage"
-sudo npm i react react-dom -S
-sudo npm i webpack webpack-cli webpack-dev-server html-webpack-plugin babel-loader @babel/core @babel/preset-env @babel/preset-react @babel/cli @babel/plugin-transform-runtime css-loader style-loader -D
+npm i react react-dom -S
+npm i webpack webpack-cli webpack-dev-server html-webpack-plugin babel-loader @babel/core @babel/preset-env @babel/preset-react @babel/cli @babel/plugin-transform-runtime css-loader style-loader -D
 
 # Tailwind
 echo "Installing Tailwind"
-sudo npm i tailwindcss autoprefixer postcss-cli mini-css-extract-plugin postcss-loader --save-dev
+npm i tailwindcss autoprefixer postcss-cli mini-css-extract-plugin postcss-loader --save-dev
 ./node_modules/.bin/tailwind init tailwind.config.js
 
 # Get config files
