@@ -9,9 +9,9 @@ A simple script to set up React, Tailwind, Webpack, Babel. In other word a React
 
 ## How To Use
 1. Make a empty directory for the project and download the starter script  
-`wget https://raw.githubusercontent.com/arwildo/react-starter/master/start.sh`    
+```wget https://raw.githubusercontent.com/arwildo/react-starter/master/start.sh```    
 2. Run the starter script  
-`bash start.sh`   
+```bash start.sh```   
 3. Type the project info (title, desc, author, etc)
 4. Open `package.json` and change `scripts` to  
 ```  
@@ -21,7 +21,7 @@ A simple script to set up React, Tailwind, Webpack, Babel. In other word a React
   },
 ```
 5. Done  
-`npm start`
+```npm start```
 
 ## Support
 <a href="https://www.buymeacoffee.com/Arwildo " target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/white_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
