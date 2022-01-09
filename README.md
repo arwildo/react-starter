@@ -22,7 +22,7 @@ A simple script to set up React, Tailwind, Webpack, Babel. In other word a React
 ```
 5. Open `tailwind.config.js` and change `content` to  
 ```  
-content: ["./src/**/*.{html,js}"]
+content: ["./src/**/*.{html,js}"],
 ```
 6. Done  
 ```npm start```
