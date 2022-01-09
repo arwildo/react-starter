@@ -20,7 +20,7 @@ A simple script to set up React, Tailwind, Webpack, Babel. In other word a React
     "build": "webpack --mode production"
   },
 ```
-4. Open `tailwind.config.js` and change `content` to  
+5. Open `tailwind.config.js` and change `content` to  
 ```  
 content: ["./src/**/*.{html,js}"]
 ```
